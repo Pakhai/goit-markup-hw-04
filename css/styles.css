@@ -203,6 +203,7 @@ img {
   border-radius: 4px;
   width: 264px;
   height: 112px;
+  margin-bottom: 8px;
 }
 
 .advantages-item-subtitle {
@@ -392,6 +393,12 @@ img {
   padding-bottom: 100px;
 }
 
+.footer-container {
+  display: flex;
+}
+.footer-link-wrap {
+  margin-right: 120px;
+}
 .footer-link {
   font-weight: 700;
   font-size: 18px;
@@ -415,4 +422,13 @@ img {
   height: 72px;
   color: #f4f4fd;
   padding-bottom: 100px;
+}
+
+.footer-media-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #fff;
+  margin-bottom: 16px;
 }
