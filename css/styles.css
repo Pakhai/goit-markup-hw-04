@@ -249,11 +249,11 @@ img {
   padding: 120px 0;
 }
 
-.icons-field {
+/*.icons-field {
   display: flex;
 
   padding: 0 16px;
-}
+}*/
 
 .icons-field-list {
   display: flex;
@@ -312,7 +312,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  margin-bottom: 72px;
+  margin-bottom: 0;
 }
 
 .team-list-item {
