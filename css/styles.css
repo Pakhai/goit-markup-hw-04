@@ -148,9 +148,6 @@ img {
   background-size: cover;
 }
 
-.hero-wrap {
-}
-
 .hero-title {
   max-width: 496px;
   height: 168px;
@@ -475,6 +472,10 @@ img {
 }
 .footer-icons-list {
   gap: 16px;
+}
+.footer-icons {
+  width: 24px;
+  height: 24px;
 }
 
 .footer-social-link:hover,
