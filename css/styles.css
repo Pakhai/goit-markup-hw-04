@@ -473,10 +473,10 @@ img {
 .footer-icons-list {
   gap: 16px;
 }
-.footer-icons {
+/*.footer-icons {
   width: 24px;
   height: 24px;
-}
+}*/
 
 .footer-social-link:hover,
 .footer-social-link:focus {
